@@ -1,7 +1,7 @@
 # HSLNet
 Cross-modal Hierarchical and Symmetric Lightweight Network for RGB-D Salient Object Detection
 
-# Autorship
+# Authorship
 Chang Wu、Haoran Gao、Lupiao Hu、Fasheng Wang
 
 # Architecture
@@ -12,6 +12,7 @@ Chang Wu、Haoran Gao、Lupiao Hu、Fasheng Wang
 * pytorch 1.11.0
 * torchvision
 # Experiments
+![image]()
 
 
 
